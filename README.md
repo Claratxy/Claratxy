@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Claratxy
+- 👋 Hi, I’m Clara Tan.
 - 👀 I’m interested in software development and cloud computing
 - 🌱 I’m currently learning Bachelor of Computer Science
 - 💞️ I’m looking to collaborate on software development internship
