@@ -8,6 +8,8 @@ A Passionate 2nd Year Computer Science student with a strong interest in softwar
 - 💼 Interested in Software Engineering, Front-end Engineering, Clound computing and UI/UX Engineering.
 - 📫 Feel free to reach me here!
 
+![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claratxy&show_icons=true&theme=tokyonight)
+
 
 <!---
 Claratxy/Claratxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
