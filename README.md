@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Clara Tan.
-- 👀 I’m interested in software development and cloud computing
-- 🌱 I’m currently learning Bachelor of Computer Science
-- 💞️ I’m looking to collaborate on software development internship
-- 📫 How to reach me ...
+- 👀 I’m interested in software development and cloud computing.
+- 🌱 I’m currently learning Bachelor of Computer Science Year 2.
+- 💞️ I’m looking to collaborate on software development internship.
+- 📫 You can just reach me here! 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
