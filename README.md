@@ -6,7 +6,7 @@ A Passionate 2nd Year Computer Science student with a strong interest in softwar
 - 🌱 Currently learning about Object Oriented Programming with C++, Python Programming with Data and others.
 - 👀 Looking for help with open source projects and internships.
 - 💼 Interested in Software Engineering, Front-end Engineering, Cloud computing and UI/UX Engineering.
-- 📫 Feel free to reach me here!
+- 📫 Feel free to reach me here or on [Linkedln](www.linkedin.com/in/xin-yue-tan-457a872bb).
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
