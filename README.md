@@ -1,8 +1,8 @@
 # Hi, I'm Clara!👋
 
-A Passionate 2nd Year Computer Science student with a strong interest in software development, cloud computing and UI/UX engineering. Experience in project completion and proficient in JavaScript, Python, C++, HTML and CSS. Effective problem solver with excellent communication skills.
+A Passionate 3nd Year Computer Science student with a strong interest in software development, cloud computing and UI/UX engineering. Experience in project completion and proficient in JavaScript, Python, C++ and SQL. Effective problem solver with excellent communication skills.
 
-- 💡 Currently Studying Bachelors of Computer Science (Year 2) in Singapore.
+- 💡 Currently Studying Bachelors of Computer Science (Year 3) in Singapore.
 - 🌱 Currently learning about Object Oriented Programming with C++, Python Programming with Data and others.
 - 👀 Looking for help with open source projects and internships.
 - 💼 Interested in Software Engineering, Front-end Engineering, Cloud computing and UI/UX Engineering.
