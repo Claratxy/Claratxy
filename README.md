@@ -6,7 +6,7 @@ A Passionate Final Year Computer Science student with a strong interest in softw
 - Currently Studying Final Year of Bachelors of Computer Science (Honours) in Singapore.<br>
 - Currently learning about Advance Web Development, Databases & Advanced Data Techniques, 3D Graphics & Animation and others.<br>
 - Looking for help with open source projects and internships.<br>
-- Interested in Software Engineering, Data Scientist, Cloud computing and UI/UX Engineering.<br>
+- Interested in Software Engineering, Data Science, Cloud computing and UI/UX Engineering.<br>
 - Feel free to reach me here or on [Linkedln](https://www.linkedin.com/in/xin-yue-tan-457a872bb/).
 
 # Tech Stack:
