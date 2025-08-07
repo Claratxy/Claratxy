@@ -3,7 +3,7 @@
 A Passionate Final Year Computer Science student with a strong interest in software development, cloud computing and UI/UX engineering. Experience in project completion and proficient in JavaScript, Python, C++ and SQL. Effective problem solver with excellent communication skills.
 
 # About Me:
-- Currently Studying Final year of Bachelors of Computer Science (Honours) in Singapore.<br>
+- Currently Studying Final Year of Bachelors of Computer Science (Honours) in Singapore.<br>
 - Currently learning about Advance Web Development, Databases & Advanced Data Techniques, 3D Graphics & Animation and others.<br>
 - Looking for help with open source projects and internships.<br>
 - Interested in Software Engineering, Data Scientist, Cloud computing and UI/UX Engineering.<br>
